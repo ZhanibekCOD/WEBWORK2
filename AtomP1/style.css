@@ -1,0 +1,61 @@
+body
+{
+margin: 0;
+padding: 0;
+font-family: 'comic sans ms' , sans-serif;
+clear: none;
+color: white;
+background: url(https://get.wallhere.com/photo/black-minimalism-text-simple-pattern-texture-circle-brand-shape-design-line-screenshot-font-40934.png) no-repeat;
+background-size: cover;
+display: inline;
+}
+
+.box
+{
+  width: 450px;
+  background: rgba(0,0,0,0.3);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top:1%;
+  color: white;
+  font-family: 'comic sans ms' , sans-serif;
+}
+.box-img
+{
+  float: none;
+  border-radius: 50%;
+  width: 220px;
+  height: 220px;
+}
+.box h1
+{
+  position: static;
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+.box h5
+{
+  position: static;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+.box p
+{
+  text-align: justify;
+}
+ul
+{
+  margin: 0;
+  padding: 0;
+}
+.box li
+{
+  display: inline-block;
+  margin:10px;
+  list-style: none;
+}
+#TM
+{
+  margin: auto;
+}
